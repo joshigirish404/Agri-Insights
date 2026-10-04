@@ -690,8 +690,6 @@ section[data-testid="stSidebar"] label p {
 # APP
 # --------------------------------------------------------------------------------------
 def app():
-    st.write("HF token configured:", bool(HF_TOKEN))
-
     st.markdown(SIDEBAR_LABEL_CSS, unsafe_allow_html=True)
     st.markdown("<h1 style='text-align:center;'> 🌿 Agri-Insights 🛰️</h1>", unsafe_allow_html=True)
     warm_up_all()
