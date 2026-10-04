@@ -1,0 +1,12 @@
+streamlit>=1.32
+geopandas>=0.14
+pyarrow>=14
+rasterio>=1.3
+numpy
+folium
+streamlit-folium
+huggingface_hub>=1.5.0
+matplotlib
+Pillow
+shapely
+plotly
