@@ -211,7 +211,7 @@ def citation_html() -> str:
     District/SubDistrict averages and normals shown here are derived from this dataset.
   </div>
   <div style="margin-bottom:3px;"><b>Basemap:</b> Esri World Imagery &mdash; Esri, Maxar, Earthstar Geographics, and the GIS User Community.</div>
-  <div><b>Boundaries:</b> Administrative boundaries are simplified for faster loading and visualisation purposes
+  <div><b>Administrative Boundaries:</b> Survey of India, Government of India. Administrative boundaries are simplified for faster loading and visualisation purposes only
     (areas selected by the user are drawn with the full-resolution boundary).</div>
 </div>
 """
